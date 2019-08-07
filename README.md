@@ -1,1 +1,1 @@
-# wordpress_terraform
+# infrastructure-terraform
